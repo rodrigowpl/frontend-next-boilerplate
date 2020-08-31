@@ -27,3 +27,8 @@
 - `yarn start (or npm start)`: Run next production server
 - `yarn test (or npm run test)`: Run tests
 - `yarn test:watch (or npm run test)`: Run tests in watch mode
+
+## How to use it?
+Run `yarn create next-app -e https://github.com/rodrigowpl/react-next-boilerplate`
+
+Enjoy it :)
