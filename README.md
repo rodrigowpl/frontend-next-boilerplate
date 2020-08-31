@@ -13,6 +13,7 @@
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 - [PWA](https://web.dev/progressive-web-apps/)
+- [Plop](https://plopjs.com/) [check here]() for more details
 
 ## Dependencies
 - Node js => v10
@@ -28,6 +29,9 @@
 - `yarn start (or npm start)`: Run next production server
 - `yarn test (or npm run test)`: Run tests
 - `yarn test:watch (or npm run test)`: Run tests in watch mode
+
+## Generating new components structures
+
 
 ## How to use it?
 Run `yarn create next-app -e https://github.com/rodrigowpl/react-next-boilerplate`
