@@ -7,7 +7,7 @@ const App = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <Head>
-        <title>React Advanced NextJS Boilerplace</title>
+        <title>React advanced NextJS Boilerplace</title>
         <link rel="shortcut icon" href="/img/icon-192.png" />
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
