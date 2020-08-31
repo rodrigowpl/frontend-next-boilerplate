@@ -12,8 +12,8 @@
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
-- [PWA](https://web.dev/progressive-web-apps/)
-- [Plop](https://plopjs.com/) [check here]() for more details
+- [PWA](https://web.dev/progressive-web-apps/) support
+- [Plop](https://plopjs.com/) to automatize components creation structure, see more detail [here]()
 
 ## Dependencies
 - Node js => v10
@@ -22,6 +22,7 @@
 - Install dependencies `yarn (or npm i)`
 - Run `yarn dev (or npm dev)` to run next development server (it  will be available in `http://localhost:3000`
 - Run `yarn storybook` to run storybook development server (it will be available in `http://localhost:6006`)
+- Run `yarn generate [ComponentName` to create a new component structure automatically (the result will be generated in `src/components/[ComponentName`)
 
 ## Available scripts
 - `yarn dev (or npm dev)`: Run next development server
@@ -30,7 +31,16 @@
 - `yarn test (or npm run test)`: Run tests
 - `yarn test:watch (or npm run test)`: Run tests in watch mode
 
-## Generating new components structures
+## Components structure
+```
+├── /src/
+│   ├── /components/
+│       ├── /[ComponentName]/
+            ├── /index.tsx/   # Component file
+            ├── /stories.tsx/ # Component Storybook story
+            ├── /styles.ts/   # Component styled-components styles
+            ├── /test.tsx/    # Component test file
+```
 
 
 ## How to use it?
