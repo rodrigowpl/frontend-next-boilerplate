@@ -9,6 +9,7 @@
 - [Testing Library React](https://testing-library.com/docs/react-testing-library/intro)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Storybook](https://storybook.js.org/)
 - [PWA](https://web.dev/progressive-web-apps/) support
 
