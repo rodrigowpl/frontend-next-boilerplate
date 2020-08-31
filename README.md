@@ -13,7 +13,7 @@
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
 - [PWA](https://web.dev/progressive-web-apps/) support
-- [Plop](https://plopjs.com/) to automatize components creation structure, see more detail [here]()
+- [Plop](https://plopjs.com/) to automatize components creation structure, see more detail [here](https://github.com/rodrigowpl/react-next-boilerplate#components-structure)
 
 ## Dependencies
 - Node js => v10
