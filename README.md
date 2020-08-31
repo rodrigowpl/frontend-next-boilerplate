@@ -6,12 +6,13 @@
 - [NextJS](https://nextjs.org/docs)
 - [Styled Components](https://styled-components.com/docs)
 - [Jest](https://jestjs.io/docs/en/getting-started)
-- [Testing Library React](https://testing-library.com/docs/react-testing-library/intro)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Storybook](https://storybook.js.org/)
-- [PWA](https://web.dev/progressive-web-apps/) support
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Husky](https://github.com/typicode/husky)
+- [PWA](https://web.dev/progressive-web-apps/)
 
 ## Dependencies
 - Node js => v10
