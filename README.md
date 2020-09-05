@@ -4,10 +4,10 @@
 
 - [ReactJS](https://reactjs.org/docs/getting-started.html)
 - [NextJS](https://nextjs.org/docs)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/docs)
 - [Jest](https://jestjs.io/docs/en/getting-started)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [TypeScript](https://www.typescriptlang.org/)
 - [Storybook](https://storybook.js.org/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
