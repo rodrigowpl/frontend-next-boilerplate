@@ -22,7 +22,7 @@
 - Install dependencies `yarn (or npm i)`
 - Run `yarn dev (or npm dev)` to run next development server (it  will be available in `http://localhost:3000`
 - Run `yarn storybook` to run storybook development server (it will be available in `http://localhost:6006`)
-- Run `yarn generate [ComponentName` to create a new component structure automatically (the result will be generated in `src/components/[ComponentName`)
+- Run `yarn generate [ComponentName]` to create a new component structure automatically (the result will be generated in `src/components/[ComponentName]`)
 
 ## Available scripts
 - `yarn dev (or npm dev)`: Run next development server
