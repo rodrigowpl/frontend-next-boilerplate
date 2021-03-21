@@ -7,10 +7,9 @@ const App = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <Head>
-        <title>React advanced NextJS Boilerplace</title>
-        <link rel="shortcut icon" href="/img/icon-192.png" />
-        <link rel="apple-touch-icon" href="/img/icon-512.png" />
-        <link rel="manifest" href="/manifest.json" />
+        <title>Divisio - React NextJS Boilerplate</title>
+        <link rel="shortcut icon" href="/icon/divisio-logo.svg" />
+        <link rel="apple-touch-icon" href="/icon/divisio-logo.svg" />
         <meta
           name="description"
           content="A boilerplace app starter to work with TypeScript, React, NextJS and Styled Components"

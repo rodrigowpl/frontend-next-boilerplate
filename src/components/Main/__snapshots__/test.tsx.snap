@@ -48,14 +48,14 @@ exports[`<Main /> should render the heading 1`] = `
   class="c0"
 >
   <img
-    alt="Imagem de um átomo e React Avançado escrito ao lado."
+    alt="Logo da Divisio"
     class="c1"
     src="/img/logo.svg"
   />
   <h1
     class="c2"
   >
-    React Next Boilerplate
+    Divisio - React Next Boilerplate
   </h1>
   <h2
     class="c3"
@@ -68,4 +68,4 @@ exports[`<Main /> should render the heading 1`] = `
     src="/img/hero-illustration.svg"
   />
 </main>
-`
+`;
