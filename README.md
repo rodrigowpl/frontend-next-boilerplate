@@ -44,6 +44,6 @@
 
 
 ## How to use it?
-Run `yarn create next-app -e https://github.com/rodrigowpl/react-next-boilerplate`
+Run `yarn create next-app -e https://github.com/divisioinc/divisio-react-next-boilerplate`
 
 Enjoy it :)
