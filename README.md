@@ -43,6 +43,6 @@
 
 
 ## How to use it?
-Run `yarn create next-app -e https://github.com/divisioinc/divisio-react-next-boilerplate`
+Run `yarn create next-app -e https://github.com/divisioinc/divisio-frontend-next-boilerplate`
 
 Enjoy it :)
