@@ -8,7 +8,6 @@
 - [Styled Components](https://styled-components.com/docs)
 - [Jest](https://jestjs.io/docs/en/getting-started)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
@@ -20,7 +19,6 @@
 ## Up and Running
 - Install dependencies `yarn (or npm i)`
 - Run `yarn dev (or npm dev)` to run next development server (it  will be available in `http://localhost:3000`
-- Run `yarn storybook` to run storybook development server (it will be available in `http://localhost:6006`)
 - Run `yarn generate [ComponentName]` to create a new component structure automatically (the result will be generated in `src/components/[ComponentName]`)
 
 ## Available scripts
@@ -36,7 +34,6 @@
 │   ├── /components/
 │       ├── /[ComponentName]/
             ├── /index.tsx/   # Component file
-            ├── /stories.tsx/ # Component Storybook story
             ├── /styles.ts/   # Component styled-components styles
             ├── /test.tsx/    # Component test file
 ```
